@@ -1,0 +1,11 @@
+.loading{
+    background: url('../img/1.gif') no-repeat center center;
+}
+ul{
+    width: 600px;
+    height: 300px;
+    border:1px solid #f00;
+}
+.red{
+    color: #f00;
+}
